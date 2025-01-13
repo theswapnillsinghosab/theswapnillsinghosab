@@ -1,5 +1,5 @@
 ![logo](https://github.com/theswapnillsinghosab/theswapnillsinghosab/blob/main/Background_banner.png)
-<h1 align="center" style="color:red;" >Hi 👋, I'm Swapnill Singh</h1>
+<h1 align="center" style="color: red;" >Hi 👋, I'm <span style="color: red;">Swapnill Singh</span></h1>
 <h3 align="center">A passionate frontend developer from India.Creating dynamic solutions with Java, Spring Boot, React, and MySQL. 🌱 Constantly evolving my skills to make an impact in the world of tech!-</h3>
 <img align="right" alt="coding" width="400" height="400" src="https://geeky01adarsh.netlify.app/assets/profile1-d123abc2.gif">
 
